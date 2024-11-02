@@ -1,0 +1,17 @@
+.pokeCard {
+  width: 300px;
+  height: 200px;
+  background-color: antiquewhite;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+
+  margin: 1em;
+  text-align: center;
+}
+
+.pokeCard div {
+  padding: 1rem;
+}
